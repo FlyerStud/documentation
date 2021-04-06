@@ -13,7 +13,14 @@ _This page assume that you have already finished the [installation](/docs/instal
 
 ```yaml
 hacs:
-  token: d73jds8f73jkr9d8sufv2br8sd9fy92nr9f80u23r97fhse (Don't copy+paste this token, create your own)
+  token: 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
+  sidepanel_title: Community
+  sidepanel_icon: "mdi:alpha-c-box"
+  appdaemon: True
+  netdaemon: True
+  country: CA
+  release_limit: 5
+  experimental: True
 ```
 
 | key               | optional | default           | description                                                                                        |
